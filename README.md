@@ -1,2 +1,16 @@
-# credit_risk_prediction_ml
-Machine Learning project to predict loan approval risk using Logistic Regression,Random Forest, and SVM
+# Credit Risk Prediction using Machine Learning
+
+This project predicts whether a loan applicant is high risk or low risk using machine learning models.
+
+Models Used:
+- Logistic Regression
+- Random Forest
+- Support Vector Machine (SVM)
+
+Results:
+Logistic Regression Accuracy: 86%
+Random Forest Accuracy: 93%
+SVM Accuracy: 90%
+
+Tools Used:
+Python, Pandas, Scikit-learn, Google Colab
